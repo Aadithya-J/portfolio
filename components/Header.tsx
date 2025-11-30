@@ -34,7 +34,7 @@ export const Header: React.FC<HeaderProps> = ({ activeSection, scrollToSection }
           onClick={() => scrollToSection(Section.HOME)}
           className="font-serif text-2xl font-bold tracking-tight text-stone-100 hover:opacity-70 transition-opacity"
         >
-          Aadithya.me
+          Aadithya
         </button>
 
         <nav className="hidden md:flex gap-8">
